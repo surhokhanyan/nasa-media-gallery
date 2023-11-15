@@ -1,0 +1,10 @@
+@import "./assets/mixins/mixins.scss";
+
+.app {
+    width: 100%;
+    min-height: 100vh;
+    @include flColCenterStart();
+    background: url("./assets/images/nasa_bg.jpg");
+    background-size: cover;
+    background-position: top;
+}

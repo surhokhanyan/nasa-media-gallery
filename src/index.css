@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --m-font: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    --m-text-yellow: #fcfad4;
+    --m-blue: #041124;
+    --m-chocolate: #775f55;
+}
